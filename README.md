@@ -48,8 +48,6 @@ Secure Slack is a professional cybersecurity platform offering:
 ## ⚙️ Setup & Usage Instructions
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/pkkulk/SECURE_SLACK.git
 cd SECURE_SLACK
 
@@ -75,3 +73,8 @@ npm run dev
 
 cd backend 
 npm run dev
+
+team members
+prathmesh kulkarni
+shreya yadav
+vedika thorat
