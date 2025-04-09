@@ -74,6 +74,10 @@ npm run dev
 cd backend 
 npm run dev
 
+##5. chatbot 
+you can ask chatbot question sevices ,who,
+some cyber topic like pentration testing, vulnerability, social engineering 
+
 team members
 prathmesh kulkarni
 shreya yadav
